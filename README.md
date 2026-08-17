@@ -1,4 +1,4 @@
-# 社科全奖博士档案 · funded-phd-dossier
+# 社科全奖博士项目爬取器 · funded-phd-dossier
 
 一个用来检索与核验**全球社会科学全额资助研究型博士项目**的 skill。
 
